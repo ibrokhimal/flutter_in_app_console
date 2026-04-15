@@ -1,3 +1,7 @@
+## 0.1.2
+
+- Resize screenshots in README.
+
 ## 0.1.1
 
 - Add screenshots to README.

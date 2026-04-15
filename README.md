@@ -7,8 +7,8 @@ Drop it into any app with **one line of code** and get a searchable, filterable,
 
 ## Screenshots
 
-![Console screen 1](https://raw.githubusercontent.com/ibrokhimal/flutter_in_app_console/main/screenshots/console_1.png)
-![Console screen 2](https://raw.githubusercontent.com/ibrokhimal/flutter_in_app_console/main/screenshots/console_2.png)
+<img src="https://raw.githubusercontent.com/ibrokhimal/flutter_in_app_console/main/screenshots/console_1.png" width="300">
+<img src="https://raw.githubusercontent.com/ibrokhimal/flutter_in_app_console/main/screenshots/console_2.png" width="300">
 
 ---
 
