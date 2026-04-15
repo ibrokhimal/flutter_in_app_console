@@ -3,9 +3,9 @@ description: >-
   An in-app overlay debug console that intercepts print() and debugPrint(),
   displays color-coded logs, and supports search, filtering, settings, and export.
 version: 0.1.0
-homepage: https://github.com/your_username/flutter_in_app_console
-repository: https://github.com/your_username/flutter_in_app_console
-issue_tracker: https://github.com/your_username/flutter_in_app_console/issues
+homepage: https://github.com/ibrokhimal/flutter_in_app_console
+repository: https://github.com/ibrokhimal/flutter_in_app_console
+issue_tracker: https://github.com/ibrokhimal/flutter_in_app_console/issues
 
 topics:
   - debugging

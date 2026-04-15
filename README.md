@@ -122,6 +122,6 @@ builder: kReleaseMode ? null : InAppConsoleBuilder.builder,
 
 ## Additional information
 
-- **Issues / feature requests:** file them on the [GitHub issue tracker](https://github.com/your_username/flutter_in_app_console/issues).
+- **Issues / feature requests:** file them on the [GitHub issue tracker](https://github.com/ibrokhimal/flutter_in_app_console/issues).
 - **Contributing:** PRs are welcome. Please open an issue first to discuss significant changes.
 - **License:** BSD 3-Clause — see [LICENSE](LICENSE).
