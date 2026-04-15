@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Widen `share_plus` constraint to `>=10.0.2 <14.0.0`.
+
 ## 0.1.2
 
 - Resize screenshots in README.
